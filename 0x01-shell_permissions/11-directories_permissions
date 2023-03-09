@@ -1,2 +1,2 @@
-#!/bsah/bin
+#!/bin/bash
 chmod -R a+x */ 
