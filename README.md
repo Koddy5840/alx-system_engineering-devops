@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Do Hard Things
+Shell Expansions and Variables
